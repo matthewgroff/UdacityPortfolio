@@ -1,14 +1,7 @@
-@import url(http://weloveiconfonts.com/api/?family=fontelico);
-
-font-family: 'Ubuntu', sans-serif;
 
 
+font-family: "Ubuntu", sans-serif;
 
-/* zocial */
-[class*="fontelico-"]:before {
-  font-family: 'fontelico', sans-serif;
-  
-}
 
 
 
